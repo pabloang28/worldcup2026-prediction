@@ -1,16 +1,11 @@
 const RESULTS = {
   groups: {},
   thirdPlace: [],
-  groupMatches: {},
-  // groupMatches format when you fill results:
-  // {
-  //   "A": {
-  //     "Mexico__South Africa": { outcome: "away" },  // 'home' | 'draw' | 'away'
-  //     "Czech Republic__South Korea": { outcome: "away" },
-  //     ...
-  //   },
-  //   ...
-  // }
+  groupMatches: {
+    "A": {
+      "Mexico__South Africa": { outcome: "home" },  // gana mexico
+      "Czech Republic__South Korea": { outcome: "away" },
+  },  
   knockout: {
     round32: [],
     round16: [],
