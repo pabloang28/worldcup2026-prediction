@@ -5,6 +5,7 @@ const RESULTS = {
     "A": {
       "Mexico__South Africa": { outcome: "home" },  // gana mexico
       "Czech Republic__South Korea": { outcome: "away" },
+      }
   },  
   knockout: {
     round32: [],
