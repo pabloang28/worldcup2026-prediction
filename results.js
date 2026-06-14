@@ -1,12 +1,23 @@
 const RESULTS = {
   groups: {},
   thirdPlace: [],
-  groupMatches: {
+ groupMatches: {
     "A": {
-      "Mexico__South Africa": { outcome: "home" },  // gana mexico
-      "Czech Republic__South Korea": { outcome: "away" },
-      }
-  },  
+      "Mexico__South Africa": { outcome: "home" },
+      "Czech Republic__South Korea": { outcome: "away" }
+    },
+    "B": {
+      "Qatar__Switzerland": { outcome: "draw" }
+    },
+    "C": {
+      "Brazil__Morocco": { outcome: "draw" },
+      "Haiti__Scotland": { outcome: "away" }
+    },
+    "D": {
+      "Paraguay__USA": { outcome: "away" },
+      "Australia__Turkey": { outcome: "home" }
+    }
+  }, 
   knockout: {
     round32: [],
     round16: [],
