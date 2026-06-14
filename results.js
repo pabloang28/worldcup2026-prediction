@@ -14,8 +14,8 @@ const RESULTS = {
       "Haiti__Scotland": { outcome: "away" }
     },
     "D": {
-      "Paraguay__USA": { outcome: "away" },
-      "Australia__Turkey": { outcome: "home" }
+      "Paraguay__USA": { outcome: "home" },
+      "Australia__Turkey": { outcome: "away" }
     }
   }, 
   knockout: {
