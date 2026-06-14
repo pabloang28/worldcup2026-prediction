@@ -4,7 +4,7 @@ const RESULTS = {
  groupMatches: {
     "A": {
       "Mexico__South Africa": { outcome: "home" },
-      "Czech Republic__South Korea": { outcome: "away" }
+      "Czech Republic__South Korea": { outcome: "home" }
     },
     "B": {
       "Qatar__Switzerland": { outcome: "draw" }
