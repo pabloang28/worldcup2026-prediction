@@ -17,6 +17,14 @@ const RESULTS = {
       "Paraguay__USA": { outcome: "home" },
       "Australia__Turkey": { outcome: "home" }
     }
+    "E": {
+      "Germany__Curaçao": { outcome: "home" },
+      "Ivory Coast__Ecuador": { outcome: "home" }
+    }
+ "F": {
+      "Netherlands__Japan": { outcome: "away" },
+      "Sweden__Tunisia": { outcome: "home" }
+    }
   }, 
   knockout: {
     round32: [],
