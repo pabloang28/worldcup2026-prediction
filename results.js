@@ -7,6 +7,7 @@ const RESULTS = {
       "Czech Republic__South Korea": { outcome: "home" }
     },
     "B": {
+      "Canada__Bosnia & Herzegovina": { outcome: "draw" },
       "Qatar__Switzerland": { outcome: "draw" }
     },
     "C": {
