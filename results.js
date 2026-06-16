@@ -22,8 +22,16 @@ const RESULTS = {
       "Ivory Coast__Ecuador": { outcome: "home" }
     },
  "F": {
-      "Netherlands__Japan": { outcome: "away" },
+      "Netherlands__Japan": { outcome: "draw" },
       "Sweden__Tunisia": { outcome: "home" }
+    },
+    "H": {
+      "Spain__Cape Verde": { outcome: "draw" },
+      "Saudi Arabia__Uruguay": { outcome: "draw" }
+    },
+    "G": {
+      "Belgium__Egypt": { outcome: "draw" },
+      "Iran__New Zealand": { outcome: "draw" }
     }
   }, 
   knockout: {
