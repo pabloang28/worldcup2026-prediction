@@ -39,7 +39,8 @@ const RESULTS = {
       "Iraq__Norway": { outcome: "away" }
     },
     "J": {
-      "Argentina__Algeria": { outcome: "home" }
+      "Argentina__Algeria": { outcome: "home" },
+      "Austria__Jordan": { outcome: "home" },
          }
   }, 
   knockout: {
