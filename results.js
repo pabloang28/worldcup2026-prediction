@@ -33,7 +33,14 @@ const RESULTS = {
     "G": {
       "Belgium__Egypt": { outcome: "draw" },
       "Iran__New Zealand": { outcome: "draw" }
-    }
+    },
+    "I": {
+      "France__Senegal": { outcome: "home" },
+      "Iraq__Norway": { outcome: "away" }
+    },
+    "J": {
+      "Argentina__Algeria": { outcome: "home" }
+         }
   }, 
   knockout: {
     round32: [],
