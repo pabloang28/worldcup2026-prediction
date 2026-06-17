@@ -40,7 +40,7 @@ const RESULTS = {
     },
     "J": {
       "Argentina__Algeria": { outcome: "home" },
-      "Austria__Jordan": { outcome: "home" },
+      "Austria__Jordan": { outcome: "home" }
          }
   }, 
   knockout: {
