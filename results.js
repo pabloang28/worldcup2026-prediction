@@ -41,6 +41,14 @@ const RESULTS = {
     "J": {
       "Argentina__Algeria": { outcome: "home" },
       "Austria__Jordan": { outcome: "home" }
+         },
+      "K": {
+      "Portugal__DR Congo": { outcome: "draw" },
+      "Uzbekistan__Colombia": { outcome: "away" }
+         },
+     "L": {
+      "England__Croatia": { outcome: "home" },
+      "Ghana__Panama": { outcome: "home" }
          }
   }, 
   knockout: {
