@@ -4,11 +4,15 @@ const RESULTS = {
  groupMatches: {
     "A": {
       "Mexico__South Africa": { outcome: "home" },
-      "Czech Republic__South Korea": { outcome: "home" }
+      "Czech Republic__South Korea": { outcome: "home" },
+      "Czech Republic__South Africa": { outcome: "draw" },
+      "Mexico__South Korea": { outcome: "home" }
     },
     "B": {
       "Canada__Bosnia & Herzegovina": { outcome: "draw" },
-      "Qatar__Switzerland": { outcome: "draw" }
+      "Qatar__Switzerland": { outcome: "draw" },
+      "Switzerland__Bosnia & Herzegovina": { outcome: "home" },
+      "Canada__Qatar": { outcome: "home" }
     },
     "C": {
       "Brazil__Morocco": { outcome: "draw" },
@@ -16,7 +20,8 @@ const RESULTS = {
     },
     "D": {
       "Paraguay__USA": { outcome: "home" },
-      "Australia__Turkey": { outcome: "home" }
+      "Australia__Turkey": { outcome: "home" },
+      "USA_Australia": { outcome: "home" }
     },
     "E": {
       "Germany__Curaçao": { outcome: "home" },
