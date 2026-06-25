@@ -1,5 +1,9 @@
 const RESULTS = {
-  groups: {},
+  groups: {
+     "A": ["Mexico","South Africa","South Korea", "Czech Republic"],
+     "B": ["Switzerland", "Canada", "Bosnia & Herzegovina", "Qatar"],
+     "C": ["Brazil","Morocco", "Scotland", "Haiti"]
+  },
   thirdPlace: [],
  groupMatches: {
     "A": {
