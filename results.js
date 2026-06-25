@@ -6,19 +6,25 @@ const RESULTS = {
       "Mexico__South Africa": { "outcome": "home" },
       "Czech Republic__South Korea": { "outcome": "home" },
       "Czech Republic__South Africa": { "outcome": "draw" },
-      "Mexico__South Korea": { "outcome": "home" }
+      "Mexico__South Korea": { "outcome": "home" },
+      "Czech Republic__Mexico": { "outcome": "away" },
+      "South Africa__South Korea": { "outcome": "home" }
     },
     "B": {
       "Canada__Bosnia & Herzegovina": { "outcome": "draw" },
       "Qatar__Switzerland": { "outcome": "draw" },
       "Switzerland__Bosnia & Herzegovina": { "outcome": "home" },
-      "Canada__Qatar": { "outcome": "home" }
+      "Canada__Qatar": { "outcome": "home" },
+      "Switzerland__Canada": { "outcome": "home" },
+      "Bosnia & Herzegovina__Qatar": { "outcome": "home" }
     },
     "C": {
       "Brazil__Morocco": { "outcome": "draw" },
       "Haiti__Scotland": { "outcome": "away" },
       "Brazil__Haiti": { "outcome": "home" },
-      "Morocco__Scotland": { "outcome": "away" }
+      "Morocco__Scotland": { "outcome": "away" },
+      "Morocco__Haiti": { "outcome": "home" },
+      "Scotland__Brazil": { "outcome": "away" }
     },
     "D": {
       "Paraguay__USA": { "outcome": "home" },
