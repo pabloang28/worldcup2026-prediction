@@ -2,7 +2,10 @@ const RESULTS = {
   groups: {
      "A": ["Mexico","South Africa","South Korea", "Czech Republic"],
      "B": ["Switzerland", "Canada", "Bosnia & Herzegovina", "Qatar"],
-     "C": ["Brazil","Morocco", "Scotland", "Haiti"]
+     "C": ["Brazil","Morocco", "Scotland", "Haiti"],
+     "D": ["USA","Australia", "Paraguay", "Turkey"],
+     "E": ["Germany","Ivory Coast", "Ecuador", "Curaçao"],
+     "F": ["Netherlands","Japan", "Sweden", "Tunisia"]
   },
   thirdPlace: [],
  groupMatches: {
@@ -34,19 +37,25 @@ const RESULTS = {
       "Paraguay__USA": { "outcome": "home" },
       "Australia__Turkey": { "outcome": "home" },
       "USA__Australia": { "outcome": "home" },
-      "Turkey__Paraguay": { "outcome": "away" }
+      "Turkey__Paraguay": { "outcome": "away" },
+      "Turkey__USA": { "outcome": "home" },
+      "Paraguay__Australia": { "outcome": "draw" }
     },
     "E": {
       "Germany__Curaçao": { "outcome": "home" },
       "Ivory Coast__Ecuador": { "outcome": "home" },
       "Germany__Ivory Coast": { "outcome": "home" },
-      "Curaçao__Ecuador": { "outcome": "draw" }
+      "Curaçao__Ecuador": { "outcome": "draw" },
+      "Ecuador__Germany": { "outcome": "home" },
+      "Curaçao__Ivory Coast": { "outcome": "away" }
     },
     "F": {
       "Netherlands__Japan": { "outcome": "draw" },
       "Sweden__Tunisia": { "outcome": "home" },
       "Netherlands__Sweden": { "outcome": "home" },
-      "Japan__Tunisia": { "outcome": "away" }
+      "Japan__Tunisia": { "outcome": "away" },
+      "Japan__Sweden": { "outcome": "draw" },
+      "Netherlands__Tunisia": { "outcome": "away" }
     },
     "G": {
       "Belgium__Egypt": { "outcome": "draw" },
