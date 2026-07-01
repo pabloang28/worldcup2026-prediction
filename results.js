@@ -139,7 +139,43 @@ const RESULTS = {
           team1: "South Africa",
           team2: "Canada",
           winner: "Canada"
-        }
+        },
+        {
+    match: 74,
+    team1: "Brazil",
+    team2: "Japan",
+    winner: "Brazil"
+  },
+  {
+    match: 75,
+    team1: "Germany",
+    team2: "Paraguay",
+    winner: "Paraguay"
+  },
+  {
+    match: 76,
+    team1: "Netherlands",
+    team2: "Morocco",
+    winner: "Morocco"
+  },
+  {
+    match: 77,
+    team1: "Ivory Coast",
+    team2: "Norway",
+    winner: "Norway"
+  },
+  {
+    match: 78,
+    team1: "France",
+    team2: "Sweden",
+    winner: "France"
+  },
+  {
+    match: 79,
+    team1: "Mexico",
+    team2: "Ecuador",
+    winner: "Mexico"
+  }
       ],
       round16: [
         // {
