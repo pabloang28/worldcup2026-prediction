@@ -175,6 +175,24 @@ const RESULTS = {
     team1: "Mexico",
     team2: "Ecuador",
     winner: "Mexico"
+  },
+        {
+    match: 80,
+    team1: "England",
+    team2: "DR Congo",
+    winner: "England"
+  },
+  {
+    match: 81,
+    team1: "Belgium",
+    team2: "Senegal",
+    winner: "Belgium"
+  },
+  {
+    match: 82,
+    team1: "USA",
+    team2: "Bosnia & Herzegovina",
+    winner: "USA"
   }
       ],
       round16: [
