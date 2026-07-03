@@ -193,6 +193,24 @@ const RESULTS = {
     team1: "USA",
     team2: "Bosnia & Herzegovina",
     winner: "USA"
+  },
+        {
+    match: 83,
+    team1: "Spain",
+    team2: "Austria",
+    winner: "Spain"
+  },
+  {
+    match: 84,
+    team1: "Portugal",
+    team2: "Croatia",
+    winner: "Portugal"
+  },
+  {
+    match: 85,
+    team1: "Switzerland",
+    team2: "Algeria",
+    winner: "Switzerland"
   }
       ],
       round16: [
