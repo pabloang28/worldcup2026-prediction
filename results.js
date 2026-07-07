@@ -123,7 +123,22 @@ const RESULTS = {
 },
   knockout: {
     round32: ["South Africa", "Canada","Netherlands", "Morocco", "Germany", "Paraguay", "France", "Sweden", "Belgium", "Senegal", "USA", "Bosnia & Herzegovina", "Spain", "Austria", "Portugal","Croatia","Brazil", "Japan","Ivory Coast","Norway", "Mexico", "Ecuador","England","DR Congo","Switzerland","Algeria","Colombia","Ghana","Australia","Egypt", "Argentina", "Cape Verde" ],
-    round16: [],
+    round16: ["Canada",
+  "Brazil",
+  "Paraguay",
+  "Morocco",
+  "Norway",
+  "France",
+  "Mexico",
+  "England",
+  "Belgium",
+  "USA",
+  "Spain",
+  "Portugal",
+  "Switzerland",
+  "Egypt",
+  "Argentina",
+  "Colombia"],
     quarterfinals: [],
     semifinals: [],
     champion: "",
@@ -211,15 +226,63 @@ const RESULTS = {
     team1: "Switzerland",
     team2: "Algeria",
     winner: "Switzerland"
+  },
+ {
+    match: 86,
+    team1: "Australia",
+    team2: "Egypt",
+    winner: "Egypt"
+  },
+  {
+    match: 87,
+    team1: "Argentina",
+    team2: "Cape Verde",
+    winner: "Argentina"
+  },
+  {
+    match: 88,
+    team1: "Colombia",
+    team2: "Ghana",
+    winner: "Colombia"
   }
       ],
       round16: [
-        // {
-        //   match: 89,
-        //   team1: "",
-        //   team2: "",
-        //   winner: ""
-        // }
+       {
+    match: 89,
+    team1: "Canada",
+    team2: "Morocco",
+    winner: "Morocco"
+  },
+  {
+    match: 90,
+    team1: "Paraguay",
+    team2: "France",
+    winner: "France"
+  },
+  {
+    match: 91,
+    team1: "Brazil",
+    team2: "Norway",
+    winner: "Norway"
+  },
+  {
+    match: 92,
+    team1: "Mexico",
+    team2: "England",
+    winner: "England"
+  },
+  {
+    match: 93,
+    team1: "Portugal",
+    team2: "Spain",
+    winner: "Spain"
+  },
+  {
+    match: 94,
+    team1: "USA",
+    team2: "Belgium",
+    winner: "Belgium"
+  }
       ],
       quarterfinals: [
         // {
