@@ -139,7 +139,14 @@ const RESULTS = {
   "Egypt",
   "Argentina",
   "Colombia"],
-    quarterfinals: [],
+    quarterfinals: ["Morocco",
+  "France",
+  "Norway",
+  "England",
+  "Spain",
+  "Belgium",
+  "Argentina",
+  "Switzerland"],
     semifinals: [],
     champion: "",
     runnerUp: "",
@@ -282,15 +289,27 @@ const RESULTS = {
     team1: "USA",
     team2: "Belgium",
     winner: "Belgium"
+  },
+        {
+    match: 95,
+    team1: "Argentina",
+    team2: "Egypt",
+    winner: "Argentina"
+  },
+  {
+    match: 96,
+    team1: "Switzerland",
+    team2: "Colombia",
+    winner: "Switzerland"
   }
       ],
       quarterfinals: [
-        // {
-        //   match: 97,
-        //   team1: "",
-        //   team2: "",
-        //   winner: ""
-        // }
+      {
+    match: 97,
+    team1: "France",
+    team2: "Morocco",
+    winner: "France"
+  }
       ],
       semifinals: [
         // {
