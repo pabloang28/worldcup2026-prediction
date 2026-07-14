@@ -147,7 +147,10 @@ const RESULTS = {
   "Belgium",
   "Argentina",
   "Switzerland"],
-    semifinals: [],
+    semifinals: ["France",
+  "Spain",
+  "England",
+  "Argentina"],
     champion: "",
     runnerUp: "",
     finalists: [],
@@ -309,6 +312,24 @@ const RESULTS = {
     team1: "France",
     team2: "Morocco",
     winner: "France"
+  },
+        {
+    match: 98,
+    team1: "Spain",
+    team2: "Belgium",
+    winner: "Spain"
+  },
+  {
+    match: 99,
+    team1: "Norway",
+    team2: "England",
+    winner: "England"
+  },
+  {
+    match: 100,
+    team1: "Argentina",
+    team2: "Switzerland",
+    winner: "Argentina"
   }
       ],
       semifinals: [
