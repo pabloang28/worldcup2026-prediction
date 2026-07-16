@@ -153,9 +153,9 @@ const RESULTS = {
   "Argentina"],
     champion: "",
     runnerUp: "",
-    finalists: [],
+    finalists: ["Spain", "Argentina"],
     thirdPlaceWinner: "",
-    final: "",
+    final: "Spain__Argentina",
     thirdPlace: "",
     matches: {
       round32: [
@@ -333,12 +333,18 @@ const RESULTS = {
   }
       ],
       semifinals: [
-        // {
-        //   match: 101,
-        //   team1: "",
-        //   team2: "",
-        //   winner: ""
-        // }
+      {
+    match: 101,
+    team1: "France",
+    team2: "Spain",
+    winner: "Spain"
+  },
+  {
+    match: 102,
+    team1: "England",
+    team2: "Argentina",
+    winner: "Argentina"
+  }
       ],
       thirdPlace: [
         // {
@@ -358,8 +364,8 @@ const RESULTS = {
       ]
     }
   },
-  semifinalists: [],
-  finalists: [],
+  semifinalists: ["France", "Spain", "England", "Argentina"],
+  finalists: ["Argentina", "Spain"],
   champion: "",
   runnerUp: "",
   thirdPlaceWinner: "",
